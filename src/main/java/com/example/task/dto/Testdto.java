@@ -4,5 +4,6 @@ public class Testdto {
   int a;
 int b;
 int c;
+  String d;
 
 }
