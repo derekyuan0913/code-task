@@ -11,8 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Testdto {
 
-    String a;
-    String b;
-    int c;
-    int dsx;
-}
+private String a;
+private String b;
+private int c;
+private int dsx;
