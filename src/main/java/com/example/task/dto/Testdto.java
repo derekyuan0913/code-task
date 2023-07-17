@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Testdto {
 
-private String a;
-private String b;
-private int c;
-private int dsx;
+private String firstName;
+private String title;
+private int age;
+private int gender;
